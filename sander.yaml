@@ -1,8 +1,0 @@
-kind: Pod
-apiVersion: v1
-metadata:
-  name: sander-pod
-spec:
-  containers:
-    - name: sander-pod
-      image: sander-image
